@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li.done {
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+div.countInfo {
+  margin-bottom: 1rem;
+}
+
+#root {
+  padding: 1.5rem;
+}
